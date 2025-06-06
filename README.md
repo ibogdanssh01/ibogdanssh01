@@ -36,7 +36,7 @@ Here are my favorite technologies and tools for building amazing projects:
 ---
 
 ## 📈 GitHub Stats
-![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogdanssh&show_icons=true&theme=radical)
+![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibogdanssh01&show_icons=true&theme=radical)
 
 ---
 
