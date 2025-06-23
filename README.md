@@ -27,10 +27,10 @@ Here are my favorite technologies and tools for building amazing projects:
 - **Backend**: Python (Django)
 - **Frontend**: HTML5/CSS3, JavaScript (ES6), TypeScript, React, Tailwind CSS
 - **Software Development**: C, C++, Rust
-- **Scripting**: Python3
+- **Scripting**: Python3, Bash
 - **Databases**: PostgreSQL, MySQL
 - **Infrastructure**: Docker
-- **Tools**: GitHub, Git, VS Code, Figma, Jira, CI/CD
+- **Tools**: GitHub, Git, VS Code, Figma, Jira, CI/CD, GitLab
 - **Operating Systems**: Linux, Windows
 
 ---
