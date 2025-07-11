@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Bogdan-Teodor], but you can call me Bogdan!
 
 ## 👨‍💻 About Me
-I'm a dedicated **Software Developer** working in the automotive industry, primarily using **Python**. I love exploring new technologies and challenging myself to grow both technically and creatively.
+I'm a dedicated **Software Developer** with a strong focus on **Python**. I enjoy exploring new technologies and continually challenging myself to grow both technically and creatively.
 
 📍 Based in **Iași, Romania**  
 📧 Email: **bogdanteodor.constantin@gmail.com**  
@@ -11,10 +11,11 @@ I'm a dedicated **Software Developer** working in the automotive industry, prima
 ---
 
 ## 🚀 What I Do
-- 🔭 Currently working on **automotive software**, focusing on Python-based system integration and diagnostics.
 - 🌐 Developing a **banking application** using **Java**, showcasing solid backend knowledge.
 - 📡 Created **[FlashingEcuOTA](https://github.com/ibogdanssh01/FlashingEcuOTA)**, a tool designed for **ECU flashing** over the air (OTA), contributing to automotive connectivity solutions.
-- 🖥️ Building **[FerrixOX](https://github.com/ibogdanssh01/FerrixOX)**, a Unix-inspired experimental operating system written entirely in **Rust**, with a focus on **security**, **memory safety**, and **reliability**.
+- 🖥️ **[FerrixOX](https://github.com/ibogdanssh01/FerrixOX)**  
+  A Unix-inspired experimental operating system written entirely in **Rust**, developed as part of my **Master's thesis**.  
+  Focused on **security**, **memory safety**, and **reliability**, FerrixOX explores modern OS design principles using Rust’s unique safety features.
 - 🧩 Developing **[Python-processes](https://github.com/ibogdanssh01/Python-processes)**, a utility for managing system processes and monitoring task activity, with a clear focus on **automation** and **productivity**.
 - 🌱 Continuously learning about advanced **software architecture**, **data structures**, and **cutting-edge technologies**.
 - 🎯 Fun fact: Only half of programming is writing code. The other 90% is **debugging**.
